@@ -1,7 +1,8 @@
 # Main-
 Information about our team &amp; members 
+
 Team Name: Cat-a-strophe
-Νέα μέλη δεκτά: ΝΑΙ
+
 
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
