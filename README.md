@@ -1,4 +1,4 @@
-# Main-
+# Main
 Information about our team &amp; members 
 
 Team Name: Cat-a-strophe
